@@ -1,0 +1,11 @@
+{
+  "name": "portfolioserver",
+  "version": "1.0.0",
+  "description": "REST APIs to retrieve portfolio information.",
+  "main": "PortfolioServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johanna Del Pino",
+  "license": "ISC"
+}
